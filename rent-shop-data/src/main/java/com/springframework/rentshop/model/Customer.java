@@ -1,6 +1,6 @@
 package com.springframework.rentshop.model;
 
-public class Customer {
+public class Customer extends Person {
 
     private int creditPoint;
 

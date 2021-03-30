@@ -2,7 +2,7 @@ package com.springframework.rentshop.model;
 
 import java.time.LocalDate;
 
-public class Item {
+public class Item extends BaseEntity {
 
     private ItemType itemType;
     private Customer customer;

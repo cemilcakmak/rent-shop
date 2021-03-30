@@ -1,6 +1,6 @@
 package com.springframework.rentshop.model;
 
-public class ItemType {
+public class ItemType extends BaseEntity {
 
     private String name;
 }

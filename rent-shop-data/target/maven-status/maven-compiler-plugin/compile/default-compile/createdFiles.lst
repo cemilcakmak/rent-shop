@@ -1,0 +1,5 @@
+com\springframework\rentshop\model\Employee.class
+com\springframework\rentshop\model\Person.class
+com\springframework\rentshop\model\Item.class
+com\springframework\rentshop\model\ItemType.class
+com\springframework\rentshop\model\Customer.class

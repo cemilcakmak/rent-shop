@@ -45,4 +45,8 @@
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
 
+
+  <scm>
+    <tag>0.0.1</tag>
+  </scm>
 </project>
